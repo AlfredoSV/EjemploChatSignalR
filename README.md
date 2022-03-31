@@ -1,7 +1,5 @@
-"# Contador desarrollado con React" 
+"# Ejemplo de como utilizar SignalR" 
 
 
-![cap1](https://github.com/AlfredoSV/Contador_React/blob/main/capturas/cap1.PNG)
+![cap1](https://github.com/AlfredoSV/EjemploChatSignalR/blob/master/capturas/cap1.PNG)
 
-
-![cap2](https://github.com/AlfredoSV/Contador_React/blob/main/capturas/cap2.PNG)
